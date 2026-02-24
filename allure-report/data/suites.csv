@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","18203","Login attempt with sikder.rakin@byslglobal.com","chromium","2026-02-24","passed","2026-02-24","Data Driven Login Tests - Username & Password Only (CSV)","logintest.spec.js","",""
+"","13193","Login attempt with mahedi.hasan@byslglobal.com","chromium","2026-02-24","passed","2026-02-24","Data Driven Login Tests - Username & Password Only (CSV)","logintest.spec.js","",""
