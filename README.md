@@ -84,8 +84,8 @@ npx allure open allure-report
 - Screenshot
 - Video recording
 - Full trace (DOM, network, console logs)
-
  - Open report → click failed test → see everything!
+
 🤝 **Contributing**
 - Feel free to fork, raise issues, or submit PRs!
 
