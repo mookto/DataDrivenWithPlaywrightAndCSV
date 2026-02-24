@@ -26,7 +26,7 @@ Supports:
 ```
 project-root/
 ├── pages/
-│   └── loginPage.js          # Page Object for login screen
+│   └── LoginPage.js          # Page Object for login screen
 ├── utils/
 │   ├── csvReader.js          # CSV data loader
 │   └── excelReader.js        # (optional) Excel data loader
