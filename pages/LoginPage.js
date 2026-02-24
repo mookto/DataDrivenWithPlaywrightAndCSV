@@ -1,5 +1,5 @@
 // pages/loginPage.js
-export default class LoginPage {   // ← বড় L দিয়ে শুরু
+export default class LoginPage {   
   /** @param {import('playwright').Page} page */
   constructor(page) {
     this.page = page;
